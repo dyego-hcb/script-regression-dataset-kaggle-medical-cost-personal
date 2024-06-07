@@ -31,6 +31,7 @@ Foram implementados os seguintes algoritmos de regressão:
 7. XGBoost
 8. LightGBM
 9. CatBoost
+10. Redes Neurais Artificiais
 
 ## Resultados
 
@@ -77,6 +78,7 @@ The following regression algorithms have been implemented:
 7. XGBoost
 8. LightGBM
 9. CatBoost
+10. Artificial Neural Networks
 
 ## Results
 
